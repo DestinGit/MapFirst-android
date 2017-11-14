@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapFirst</string>
+    <string name="title_activity_map_first">Map</string>
+    <string name="mykeyGoogle">AIzaSyAZCox6Sij_nZp-Sv9twOAeLUBsR0fDUSw</string>
+</resources>
